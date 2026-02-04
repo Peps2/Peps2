@@ -29,7 +29,7 @@ I specialize in transforming ideas and designs into functional, interactive, and
 
 ### 📫 Connect With Me
 
-- **Email:** aroholuchi61@example.com  
+- **Email:** aroholuchi61@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/oluchukwuaroh 
 
 ### ✨ GitHub Goals
