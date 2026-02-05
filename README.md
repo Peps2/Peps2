@@ -8,7 +8,7 @@ I specialize in transforming ideas and designs into functional, interactive, and
 ### 🚀 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Tailwind CSS  
+- **Frameworks & Libraries:** React, Tailwind CSS,Next.js 
 - **Tools:** Git, GitHub, VS Code  
 - **Core Strengths:** Responsive Design, UI Development, Debugging, Problem Solving, Clean Code
 
